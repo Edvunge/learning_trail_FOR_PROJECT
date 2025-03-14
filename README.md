@@ -7,3 +7,6 @@
 - 2 - Javascript Completo e Profissional
   > [2023] Curso de Javascript Completo, Profissional e Moderno
   > Curso de Javascript Moderno **Canal Fessor Bruno**, via **YOUTUBE**
+  > ## PERCENTAGEM CONCLUIDA DO CURSO:
+  >           2.63%(7 AULAS) / 14/mar/2025 01:06
+  >           .
