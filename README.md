@@ -9,4 +9,5 @@
   > Curso de Javascript Moderno **Canal Fessor Bruno**, via **YOUTUBE**
   > ## PERCENTAGEM CONCLUIDA DO CURSO:
   >           1.13%(3 AULAS) / 05/JAN/2026 19:38
+  >           3.00%(8 AULAS) / 21/JAN/2026 22:38
   >           .
