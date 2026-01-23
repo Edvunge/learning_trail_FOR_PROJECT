@@ -10,4 +10,5 @@
   > ## PERCENTAGEM CONCLUIDA DO CURSO:
   >           1.13%(3 AULAS) / 05/JAN/2026 19:38
   >           3.00%(8 AULAS) / 21/JAN/2026 22:38
+  >           4.88%(13 AULAS) / 23/01/2026 20:57
   >           .
